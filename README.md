@@ -50,6 +50,7 @@
 - [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) 强大的android图表
 - [glide-transformations](https://github.com/wasabeef/glide-transformations) 一个Android转换库，为Glide提供各种图像转换
 - [PhotoView](https://github.com/chrisbanes/PhotoView) 提供可伸缩图片
+- [StickyHeaders](https://github.com/bgogetap/StickyHeaders?utm_source=androidweekly.io&utm_medium=website) 轻松将Sticky Headers添加到RecyclerView
 
 ## 占位效果
 - [ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView) recyclerview打开占位效果 
