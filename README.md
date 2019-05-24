@@ -241,7 +241,7 @@
 - [fish-redux](https://github.com/alibaba/fish-redux) 一个基于 Redux 数据管理的组装式 flutter 应用框架
 - [flutter-go](https://github.com/alibaba/flutter-go) flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档
 - [GSYGithubAppFlutter](https://github.com/CarGuo/GSYGithubAppFlutter) flutter实现的github客户端
-- [https://github.com/kaina404/FlutterDouBan](https://github.com/kaina404/FlutterDouBan) Flutter豆瓣客户端
+- [FlutterDouBan](https://github.com/kaina404/FlutterDouBan) Flutter豆瓣客户端
 
 ## doc
 - [BeesAndroid](https://github.com/BeesX/BeesAndroid) android源码解析 
