@@ -51,6 +51,7 @@
 - [glide-transformations](https://github.com/wasabeef/glide-transformations) 一个Android转换库，为Glide提供各种图像转换
 - [PhotoView](https://github.com/chrisbanes/PhotoView) 提供可伸缩图片
 - [StickyHeaders](https://github.com/bgogetap/StickyHeaders?utm_source=androidweekly.io&utm_medium=website) 轻松将Sticky Headers添加到RecyclerView
+- [FocusLayoutManager](https://github.com/CCY0122/FocusLayoutManager?utm_source=androidweekly.io&utm_medium=website) 仿Android豆瓣书影音“推荐“频道列表布局
 
 ## 占位效果
 - [ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView) recyclerview打开占位效果 
@@ -178,6 +179,7 @@
 - [pdf.js](https://github.com/mozilla/pdf.js) PDF Reader in JavaScript
 - [AndroidPdfViewer](https://github.com/barteksc/AndroidPdfViewer) Android view for displaying PDFs rendered with PdfiumAndroid
 - [android-pdfview](https://github.com/JoanZapata/android-pdfview) A fast PDF reader component for Android development
+- [PdfBox-Android](https://github.com/TomRoush/PdfBox-Android?utm_source=androidweekly.io&utm_medium=website) The Apache PdfBox project ported to work on Android
 
 
 
@@ -278,6 +280,8 @@
 - [jstraining](https://github.com/ruanyf/jstraining) 全栈工程师培训材料
 - [netty-4-user-guide](https://github.com/waylau/netty-4-user-guide) Netty 4.x 用户指南
 - [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) 免费的计算机编程类中文书籍
+- [leetcode](https://github.com/azl397985856/leetcode) leetcode题解
+- [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) 用动画的形式呈现解LeetCode题目的思路
 
 # 其他
 ## 项目
