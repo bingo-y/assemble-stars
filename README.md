@@ -282,6 +282,7 @@
 - [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) 免费的计算机编程类中文书籍
 - [leetcode](https://github.com/azl397985856/leetcode) leetcode题解
 - [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) 用动画的形式呈现解LeetCode题目的思路
+- [hacker-laws-zh](https://github.com/nusr/hacker-laws-zh?utm_source=androidweekly.io&utm_medium=website) 对开发人员有用的定律、理论、原则和模式
 
 # 其他
 ## 项目
