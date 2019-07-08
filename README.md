@@ -166,6 +166,8 @@
 - [Android-Skin-Loader](https://github.com/fengjundev/Android-Skin-Loader) 一个通过动态加载本地皮肤包进行换肤的皮肤框架
 - [AndroidAutoSize](https://github.com/JessYanCoding/AndroidAutoSize) 今日头条屏幕适配方案终极版，一个极低成本的 Android 屏幕适配方案
 - [DeepLinkDispatch](https://github.com/airbnb/DeepLinkDispatch) 基于注解的deep link方案
+- [SaveState](https://github.com/PrototypeZ/SaveState) 自动恢复 Activity、Fragment 以及 View 的状态
+- [Xpatch](https://github.com/WindySha/Xpatch) 免Root实现app加载Xposed插件工具
 
 ## log
 - [xLog](https://github.com/elvishew/xLog)  Android 和 Java 日志库，可同时在多个通道打印日志
