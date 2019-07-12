@@ -210,6 +210,7 @@
 - [Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture) clean architecture demo
 - [android-mvp-architecture](https://github.com/MindorksOpenSource/android-mvp-architecture) MVP architecture demo
 - [MVPArms](https://github.com/JessYanCoding/MVPArms) 一个整合了大量主流开源项目高度可配置化的 Android MVP 快速集成框架
+- [MVVM-Rhine](https://github.com/qingmei2/MVVM-Rhine) MVVM+Jetpack的开发实践
 
 ## 完整demo
 - [GracefulMovies](https://github.com/woxingxiao/GracefulMovies) 简影讯，简约精彩影讯
