@@ -211,6 +211,7 @@
 - [android-mvp-architecture](https://github.com/MindorksOpenSource/android-mvp-architecture) MVP architecture demo
 - [MVPArms](https://github.com/JessYanCoding/MVPArms) 一个整合了大量主流开源项目高度可配置化的 Android MVP 快速集成框架
 - [MVVM-Rhine](https://github.com/qingmei2/MVVM-Rhine) MVVM+Jetpack的开发实践
+- [AopArms](https://github.com/aicareles/AopArms) AopArms编写了Android开发中常用的一套注解，如日志、异步处理、缓存、SP、延迟操作、定时任务、重试机制、try-catch安全机制、过滤频繁点击、拦截等，后续还会有更多更强大的注解功能加入
 
 ## 完整demo
 - [GracefulMovies](https://github.com/woxingxiao/GracefulMovies) 简影讯，简约精彩影讯
@@ -223,6 +224,8 @@
 - [Ghost](https://github.com/GeekGhost/Ghost) 微影，一款纯粹的在线视频App
 - [xmpp](https://github.com/jiangzehui/xmpp) 基于Xmpp协议的即时通讯社交软件
 - [OpenEyes](https://github.com/xiaohaibin/OpenEyes) 仿【开眼视频】客户端，一款精美的短视频应用 
+- [android-showcase](https://github.com/igorwojda/android-showcase) Android application following best practices: Kotlin, coroutines, Clean Architecture, feature modules, tests, MVVM, static analysis
+- [qksms](https://github.com/moezbhatti/qksms) The most beautiful SMS messenger for Android
 
 ## 插件化
 - [Neptune](https://github.com/iqiyi/Neptune) 爱奇艺插件化框架 
@@ -238,6 +241,12 @@
 ## test
 - [RESTMock](https://github.com/andrzejchm/RESTMock) HTTP Server for Android Instrumentation tests 
 - [Barista](https://github.com/SchibstedSpain/Barista) The guy who serves a great Espresso
+- [SoloPi](https://github.com/alipay/SoloPi.git) ali SoloPi 自动化测试工具
+
+
+## kotlin
+- [kotlin-coroutines-retrofit](https://github.com/gildor/kotlin-coroutines-retrofit) Kotlin Coroutines await() extension for Retrofit Call
+- [kotlin-coroutines-android](https://github.com/enbandari/kotlin-coroutines-android) kotlin 协程封装
 
 
 ## flutter
